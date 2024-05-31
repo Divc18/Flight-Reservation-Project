@@ -1,0 +1,6 @@
+from      to          timings            seats avl.      baseprice
+delhi     london      3:00 to 5:30PM 	l-47            rs-200000
+delhi     finland     4:30 to 6:30PM      f-47           rs-350000
+delhi	 australia   5:00 to 8:00PM	     a-55	           rs-210000
+mumbai    dubai       7:00 to 10:00PM	d-63	           rs-390000
+mumbai    korea       4:00 to 6:00PM      k-45           rs-260000

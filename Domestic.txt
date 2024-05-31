@@ -1,0 +1,6 @@
+from       to        timings            seats avl.      baseprice
+delhi      mumbai    3:30 to 5:30PM     m-47           rs-10000
+delhi      chennai   4:30 to 6:30PM     c-37           rs-15000
+gurgugram  goa       5:00 to 8:00PM     g-33           rs-5000
+delhi      kolkata   7:00 to 10:00PM    k-33           rs-25000
+chennai    delhi     4:00 to 6:00PM     d-44           rs-15000
